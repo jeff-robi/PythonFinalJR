@@ -1,8 +1,7 @@
-# 1. Create a basic founcation for the game (Basic code and interface)
-# 2. Create an exit for game end
-# 3. Add a loop for game restart
-# 4. Add two different player modes (1 and 2 player)
+# 1. Create a basic founcation for the game (Basic code and interface) DONE
+# 2. Create an exit for game end DONE
+# 3. Add a loop for game restart DONE
+# 4. Add two different player modes (1 and 2 player) WIP
 # 5. Create a normal mode, and a special mode, maybe 2
-# 6. Add point system
-# 7. Test code
-# 8. Work out any bugs/clean up code
+# 6. Test code
+# 7. Work out any bugs/clean up code

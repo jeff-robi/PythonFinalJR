@@ -20,7 +20,7 @@ tkinter
 random
 regular python modules
 # Future work (What I would do if given more time): 
-I would work to understand how to make the computer player smart.
+I would work to understand how to make the computer player smart. (testSMARTCOM.py is some attempting of that)
 I might even add a scoreboard for multiple games to tally.
 As well as fix any bugs I missed or just tidy things up more.
 # Completion Statement: 

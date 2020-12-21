@@ -1,7 +1,6 @@
-# 1. Create a basic founcation for the game (Basic code and interface) DONE
+# 1. Create a basic foundation for the game (Basic code and interface) DONE
 # 2. Create an exit for game end DONE
 # 3. Add a loop for game restart DONE
-# 4. Add two different player modes (1 and 2 player) WIP
-# 5. Create a normal mode, and a special mode, maybe 2
-# 6. Test code
-# 7. Work out any bugs/clean up code
+# 4. Create a normal mode and a com mode DONE
+# 5. Test code DONE
+# 6. Work out any bugs/clean up code DONE
